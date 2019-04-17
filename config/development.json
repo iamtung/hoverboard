@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-dev.firebaseapp.com/",
-  "analytics": "UA-43643469-8",
+  "url": "https://mucoi.zepto.vn/",
+  "analytics": "UA-138500444-1",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE",
-    "authDomain": "hoverboard-dev.firebaseapp.com",
-    "databaseURL": "https://hoverboard-dev.firebaseio.com",
-    "projectId": "hoverboard-dev",
-    "storageBucket": "hoverboard-dev.appspot.com",
-    "messagingSenderId": "1083195713896"
+    "apiKey": "AIzaSyCrr0P2YZR91n0M2CMns7e8V9aUds6YtDE",
+    "authDomain": "mucoi.zepto.vn",
+    "databaseURL": "https://mucoi-zepto-5d66c.firebaseio.com/",
+    "projectId": "mucoi-zepto-5d66c",
+    "storageBucket": "mucoi-zepto-5d66c.appspot.com",
+    "messagingSenderId": "860017501569"
   },
   "googleMapApiKey": ""
 }
